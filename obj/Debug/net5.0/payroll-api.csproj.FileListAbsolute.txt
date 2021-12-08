@@ -27,3 +27,8 @@ C:\Users\Pichau\Documents\GitHub\payroll-api\obj\Debug\net5.0\payroll-api.dll
 C:\Users\Pichau\Documents\GitHub\payroll-api\obj\Debug\net5.0\ref\payroll-api.dll
 C:\Users\Pichau\Documents\GitHub\payroll-api\obj\Debug\net5.0\payroll-api.pdb
 C:\Users\Pichau\Documents\GitHub\payroll-api\obj\Debug\net5.0\payroll-api.genruntimeconfig.cache
+C:\Users\Pichau\Documents\GitHub\payroll-api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Pichau\Documents\GitHub\payroll-api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Pichau\Documents\GitHub\payroll-api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Pichau\Documents\GitHub\payroll-api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Pichau\Documents\GitHub\payroll-api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
