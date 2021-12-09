@@ -10,7 +10,7 @@ namespace payroll_api.Models
         public Funcionario() => CriadoEm = DateTime.Now;
         public int Id { get; set; }
         public string Nome { get; set; }
-        public string Função { get; set; }
+        public string Funcao { get; set; }
         public DateTime CriadoEm { get; set; }
     }
 }
