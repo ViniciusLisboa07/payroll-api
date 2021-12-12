@@ -23,7 +23,7 @@ namespace payroll_api.Controllers
         public IActionResult Create([FromBody] FolhaDePagamento folhaDePagamento)
         {
             FolhaDePagamento folhaRepetida = _context.FolhaDePagamento.Where(folha => folha.Funcionario == folhaDePagamento.Funcionario && folha.ano == folhaDePagamento.ano && folha.mes == folhaDePagamento.mes).FirstOrDefault();
-            
+
             if(folhaRepetida != null) {
                 return BadRequest(new { message = "Você não pode criar uma folha de pagamento com o mesmo funcionário, mês e ano." });
             }

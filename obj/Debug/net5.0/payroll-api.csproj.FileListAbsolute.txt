@@ -32,3 +32,10 @@ C:\Users\Pichau\Documents\GitHub\payroll-api\bin\Debug\net5.0\Microsoft.EntityFr
 C:\Users\Pichau\Documents\GitHub\payroll-api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
 C:\Users\Pichau\Documents\GitHub\payroll-api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\Pichau\Documents\GitHub\payroll-api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pichau\Documents\GitHub\payroll-api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Pichau\Documents\GitHub\payroll-api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Pichau\Documents\GitHub\payroll-api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Pichau\Documents\GitHub\payroll-api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Pichau\Documents\GitHub\payroll-api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Pichau\Documents\GitHub\payroll-api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Pichau\Documents\GitHub\payroll-api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
